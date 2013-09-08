@@ -1,0 +1,5 @@
+main: com.williambl.plugins.announcer.AnnouncerMain
+name: TameAnnounce
+version: 1.0
+author: Willbl3pic
+description: Tells a player when they tame a pet.
